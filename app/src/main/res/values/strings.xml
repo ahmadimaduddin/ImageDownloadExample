@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageDownloadExample</string>
+    <string name="filter">Filter</string>
+    <string name="movetofilter">Go to Filter</string>z
+    <string name="download">Download</string>
+    <string name="Command">Masukkan url dan klik download!!</string>
+    <string name="grayscale">Grayscale Me!!</string>
+    <string name="https_www_dicoding_com">https://www.dicoding.com/</string>
+</resources>
